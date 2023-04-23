@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4627b379-0eba-4f7f-a835-75ecd26878ea)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 85.09 62.23) (size 40.64 57.15) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d4c6bf00-4c73-4837-9d0b-090f500350e9)
+    (property "Sheetname" "ESP32-S3" (at 85.09 61.5184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 85.09 119.9646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "TB67B000AHG"
+        (path "/4627b379-0eba-4f7f-a835-75ecd26878ea" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
