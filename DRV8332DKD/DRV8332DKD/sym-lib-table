@@ -3,4 +3,5 @@
   (lib (name "DRV8332DKDR")(type "KiCad")(uri "C:/Users/lgfou/Desktop/template-circuits/DRV8332DKD/LIB_DRV8332DKDR/DRV8332DKDR/KiCad/DRV8332DKDR.kicad_sym")(options "")(descr ""))
   (lib (name "DRV8332DKD")(type "KiCad")(uri "C:/Users/lgfou/Desktop/template-circuits/DRV8332DKD/LIB_DRV8332DKD/DRV8332DKD/KiCad/DRV8332DKD.kicad_sym")(options "")(descr ""))
   (lib (name "Espressif")(type "KiCad")(uri "C:/Users/lgfou/Desktop/template-circuits/ESP32-kicad-libraries-main/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Symbols")(type "KiCad")(uri "C:/Users/lgfou/Desktop/template-circuits/DRV8332DKD/Custom_Symbols.kicad_sym")(options "")(descr ""))
 )
