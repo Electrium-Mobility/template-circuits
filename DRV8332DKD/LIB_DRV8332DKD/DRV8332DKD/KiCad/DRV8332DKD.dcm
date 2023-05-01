@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8332DKD
+D 13A Three Phase Brushless DC Motor Driver with Inrush Protection (PWM Ctrl)
+K
+F http://www.ti.com/lit/gpn/drv8332
+$ENDCMP
+#
+#End Doc Library

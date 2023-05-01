@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8332DKD'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8332DKD" (!) = "", "SOP65P1420X360-36N", "Small Outline Packages", "595-DRV8332DKD", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8332DKD?qs=GI4%2FryNtbd3ox%252B47ZthFxg%3D%3D", "DRV8332DKD", "https://www.arrow.com/en/products/drv8332dkd/texas-instruments", "13A Three Phase Brushless DC Motor Driver with Inrush Protection (PWM Ctrl)", "http://www.ti.com/lit/gpn/drv8332", "3.6 mm"
+END_PART
+
+END.
