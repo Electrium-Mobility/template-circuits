@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2023-05-02_18-14-59")(type "KiCad")(uri "C:/Users/suyuc/OneDrive - University of Waterloo/Documents/GitHub/template-circuits/DRV8323RSRGZT/2023-05-02_18-14-59.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV8323RSRGZT")(type "KiCad")(uri "C:/Users/suyuc/OneDrive - University of Waterloo/Documents/GitHub/template-circuits/DRV8323RSRGZT/DRV8323RSRGZT.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-05-02_19-35-11")(type "KiCad")(uri "C:/Users/suyuc/OneDrive - University of Waterloo/Documents/GitHub/template-circuits/DRV8323RSRGZT/2023-05-02_19-35-11.kicad_sym")(options "")(descr ""))
+)
