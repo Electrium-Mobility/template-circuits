@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8302DCA
+D 3-Phase Brushless Motor Pre-Driver DRV8302DCA, Motor Driver, 3-Phase Motor Driver, 200kHz 8 ??? 60 V, 56-Pin HTSSOP
+K
+F http://www.ti.com/lit/ds/symlink/drv8302.pdf
+$ENDCMP
+#
+#End Doc Library
