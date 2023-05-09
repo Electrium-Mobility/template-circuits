@@ -42,6 +42,7 @@ void setup() {
   Wire.write(0x00);
   Wire.write(0x01);
   Wire.endTransmission();
+  delay(100);
 }
 
 void loop() {
@@ -49,7 +50,6 @@ void loop() {
   ledcWrite(pwmChannel, spd);
   Serial.println(spd);
   
-
   if (digitalRead(NFAULT) == 0) {
     Serial.println("Fault");
   }
